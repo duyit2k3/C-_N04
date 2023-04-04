@@ -1,0 +1,16 @@
+D:\C#\92589-caomanhduy\92589-caomanhduy\bin\Debug\92589-caomanhduy.exe.config
+D:\C#\92589-caomanhduy\92589-caomanhduy\bin\Debug\92589-caomanhduy.exe
+D:\C#\92589-caomanhduy\92589-caomanhduy\bin\Debug\92589-caomanhduy.pdb
+D:\C#\92589-caomanhduy\92589-caomanhduy\obj\Debug\92589-caomanhduy.csproj.AssemblyReference.cache
+D:\C#\92589-caomanhduy\92589-caomanhduy\obj\Debug\92589-caomanhduy.csproj.SuggestedBindingRedirects.cache
+D:\C#\92589-caomanhduy\92589-caomanhduy\obj\Debug\_92589_caomanhduy.Form1.resources
+D:\C#\92589-caomanhduy\92589-caomanhduy\obj\Debug\_92589_caomanhduy.Formvd4.resources
+D:\C#\92589-caomanhduy\92589-caomanhduy\obj\Debug\_92589_caomanhduy.Properties.Resources.resources
+D:\C#\92589-caomanhduy\92589-caomanhduy\obj\Debug\92589-caomanhduy.csproj.GenerateResource.cache
+D:\C#\92589-caomanhduy\92589-caomanhduy\obj\Debug\92589-caomanhduy.csproj.CoreCompileInputs.cache
+D:\C#\92589-caomanhduy\92589-caomanhduy\obj\Debug\92589-caomanhduy.exe
+D:\C#\92589-caomanhduy\92589-caomanhduy\obj\Debug\92589-caomanhduy.pdb
+D:\C#\92589-caomanhduy\92589-caomanhduy\obj\Debug\_92589_caomanhduy.Formvd42.resources
+D:\C#\92589-caomanhduy\92589-caomanhduy\obj\Debug\_92589_caomanhduy.Formvd43.resources
+D:\C#\92589-caomanhduy\92589-caomanhduy\obj\Debug\_92589_caomanhduy.Formvd44.resources
+D:\C#\92589-caomanhduy\92589-caomanhduy\obj\Debug\_92589_caomanhduy.Formvd45.resources

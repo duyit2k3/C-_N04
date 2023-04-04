@@ -1,0 +1,14 @@
+D:\C#\baitap\baitap\bin\Debug\baitap.exe.config
+D:\C#\baitap\baitap\bin\Debug\baitap.exe
+D:\C#\baitap\baitap\bin\Debug\baitap.pdb
+D:\C#\baitap\baitap\obj\Debug\baitap.csproj.AssemblyReference.cache
+D:\C#\baitap\baitap\obj\Debug\baitap.csproj.SuggestedBindingRedirects.cache
+D:\C#\baitap\baitap\obj\Debug\baitap.Form1.resources
+D:\C#\baitap\baitap\obj\Debug\baitap.Formb6.resources
+D:\C#\baitap\baitap\obj\Debug\baitap.Formnhap.resources
+D:\C#\baitap\baitap\obj\Debug\baitap.Properties.Resources.resources
+D:\C#\baitap\baitap\obj\Debug\baitap.csproj.GenerateResource.cache
+D:\C#\baitap\baitap\obj\Debug\baitap.csproj.CoreCompileInputs.cache
+D:\C#\baitap\baitap\obj\Debug\baitap.exe
+D:\C#\baitap\baitap\obj\Debug\baitap.pdb
+D:\C#\baitap\baitap\obj\Debug\baitap.Formb7cs.resources

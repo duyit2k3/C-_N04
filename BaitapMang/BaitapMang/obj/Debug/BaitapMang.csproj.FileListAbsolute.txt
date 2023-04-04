@@ -1,0 +1,13 @@
+D:\C#\BaitapMang\BaitapMang\bin\Debug\BaitapMang.exe.config
+D:\C#\BaitapMang\BaitapMang\bin\Debug\BaitapMang.exe
+D:\C#\BaitapMang\BaitapMang\bin\Debug\BaitapMang.pdb
+D:\C#\BaitapMang\BaitapMang\obj\Debug\BaitapMang.csproj.AssemblyReference.cache
+D:\C#\BaitapMang\BaitapMang\obj\Debug\BaitapMang.csproj.SuggestedBindingRedirects.cache
+D:\C#\BaitapMang\BaitapMang\obj\Debug\BaitapMang.Form1.resources
+D:\C#\BaitapMang\BaitapMang\obj\Debug\BaitapMang.Mang1chieu.resources
+D:\C#\BaitapMang\BaitapMang\obj\Debug\BaitapMang.Properties.Resources.resources
+D:\C#\BaitapMang\BaitapMang\obj\Debug\BaitapMang.csproj.GenerateResource.cache
+D:\C#\BaitapMang\BaitapMang\obj\Debug\BaitapMang.csproj.CoreCompileInputs.cache
+D:\C#\BaitapMang\BaitapMang\obj\Debug\BaitapMang.exe
+D:\C#\BaitapMang\BaitapMang\obj\Debug\BaitapMang.pdb
+D:\C#\BaitapMang\BaitapMang\obj\Debug\BaitapMang.Mang2chieu.resources

@@ -1,0 +1,12 @@
+D:\C#\vidu\vidu\bin\Debug\vidu.exe.config
+D:\C#\vidu\vidu\bin\Debug\vidu.exe
+D:\C#\vidu\vidu\bin\Debug\vidu.pdb
+D:\C#\vidu\vidu\obj\Debug\vidu.csproj.AssemblyReference.cache
+D:\C#\vidu\vidu\obj\Debug\vidu.csproj.SuggestedBindingRedirects.cache
+D:\C#\vidu\vidu\obj\Debug\vidu.Formchu.resources
+D:\C#\vidu\vidu\obj\Debug\vidu.Formvd1.resources
+D:\C#\vidu\vidu\obj\Debug\vidu.Properties.Resources.resources
+D:\C#\vidu\vidu\obj\Debug\vidu.csproj.GenerateResource.cache
+D:\C#\vidu\vidu\obj\Debug\vidu.csproj.CoreCompileInputs.cache
+D:\C#\vidu\vidu\obj\Debug\vidu.exe
+D:\C#\vidu\vidu\obj\Debug\vidu.pdb
