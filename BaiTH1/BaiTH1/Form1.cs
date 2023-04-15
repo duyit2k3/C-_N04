@@ -28,5 +28,11 @@ namespace BaiTH1
             Test2 f2 = new Test2();
             f2.Show();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Test3 f3 = new Test3();
+            f3.Show();
+        }
     }
 }

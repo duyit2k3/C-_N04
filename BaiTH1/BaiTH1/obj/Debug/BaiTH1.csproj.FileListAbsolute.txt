@@ -10,3 +10,17 @@ D:\C#\BaiTH1\BaiTH1\obj\Debug\BaiTH1.csproj.GenerateResource.cache
 D:\C#\BaiTH1\BaiTH1\obj\Debug\BaiTH1.csproj.CoreCompileInputs.cache
 D:\C#\BaiTH1\BaiTH1\obj\Debug\BaiTH1.exe
 D:\C#\BaiTH1\BaiTH1\obj\Debug\BaiTH1.pdb
+D:\BaiHoc\C#\BaiTH1\BaiTH1\bin\Debug\BaiTH1.exe.config
+D:\BaiHoc\C#\BaiTH1\BaiTH1\bin\Debug\BaiTH1.exe
+D:\BaiHoc\C#\BaiTH1\BaiTH1\bin\Debug\BaiTH1.pdb
+D:\BaiHoc\C#\BaiTH1\BaiTH1\obj\Debug\BaiTH1.csproj.AssemblyReference.cache
+D:\BaiHoc\C#\BaiTH1\BaiTH1\obj\Debug\BaiTH1.csproj.SuggestedBindingRedirects.cache
+D:\BaiHoc\C#\BaiTH1\BaiTH1\obj\Debug\BaiTH1.Form1.resources
+D:\BaiHoc\C#\BaiTH1\BaiTH1\obj\Debug\BaiTH1.Properties.Resources.resources
+D:\BaiHoc\C#\BaiTH1\BaiTH1\obj\Debug\BaiTH1.Test1.resources
+D:\BaiHoc\C#\BaiTH1\BaiTH1\obj\Debug\BaiTH1.Test2.resources
+D:\BaiHoc\C#\BaiTH1\BaiTH1\obj\Debug\BaiTH1.csproj.GenerateResource.cache
+D:\BaiHoc\C#\BaiTH1\BaiTH1\obj\Debug\BaiTH1.csproj.CoreCompileInputs.cache
+D:\BaiHoc\C#\BaiTH1\BaiTH1\obj\Debug\BaiTH1.exe
+D:\BaiHoc\C#\BaiTH1\BaiTH1\obj\Debug\BaiTH1.pdb
+D:\BaiHoc\C#\BaiTH1\BaiTH1\obj\Debug\BaiTH1.Test3.resources

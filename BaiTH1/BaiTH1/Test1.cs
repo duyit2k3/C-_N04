@@ -75,5 +75,10 @@ namespace BaiTH1
                 this.Close();
             }
         }
+
+        private void txtTH_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

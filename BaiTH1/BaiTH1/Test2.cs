@@ -16,5 +16,37 @@ namespace BaiTH1
         {
             InitializeComponent();
         }
+
+        private void txtName_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if(!char.IsControl(e.KeyChar) && !char.IsLetter(e.KeyChar) && e.KeyChar != ' ')
+            {
+                e.Handled = true;
+            }
+        }
+
+        private void txtMess_TextChanged(object sender, EventArgs e)
+        {
+            if(rdBlack.Checked == true)
+            {
+                txtMess.ForeColor = Color.Black;
+            }
+            if(rdBlue.Checked == true)
+            {
+                txtMess.ForeColor = Color.Blue;
+            }
+            if(rdGreen.Checked == true)
+            {
+                txtMess.ForeColor = Color.Green;   
+            }
+            if(rdRed.Checked == true)
+            {
+                txtMess.ForeColor = Color.Red;
+            }
+            if(chkBold.Checked == true)
+            {
+                txtMess.Font = new Font(txtMess.Font, FontStyle.Bold);
+            }
+        }
     }
 }
